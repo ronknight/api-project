@@ -1,5 +1,5 @@
 const charsSection = document.getElementById('chars-container');
-const charsURL = 'https://hp-api.herokuapp.com/api/characters';
+const charsURL = 'https://hp-api.onrender.com/api/characters';
 
 // Get characters from API:
 async function getChars() {
